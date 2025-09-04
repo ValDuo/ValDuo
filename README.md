@@ -39,7 +39,7 @@
 
 ## 📲 My Projects :
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xastt&repo=SkillSwap)](https://github.com/ValDuo/parser)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValDuo&repo=parser)](https://github.com/ValDuo/parser)
 
 
 ## 📈 My Stats :
