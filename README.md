@@ -40,7 +40,7 @@
 ## 📲 My Projects :
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValDuo&repo=parser)](https://github.com/ValDuo/parser)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValDuo&repo=frkbot)](https://github.com/ValDuo/frkbot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValDuo&repo=fkrbot)](https://github.com/ValDuo/fkrbot)
 
 ## 📈 My Stats :
 
