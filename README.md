@@ -11,7 +11,7 @@
 
 ## 👨‍🎓 About Me :
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=ML+programmer+on+Java)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=ML+programmer+on+Java+&+Python)](https://git.io/typing-svg)
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Big+Data+Analyst)](https://git.io/typing-svg)
 
