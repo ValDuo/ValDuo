@@ -5,7 +5,7 @@
 
 ### I'm an Analyst and Developer from Russia 🇷🇺
 
-![Header](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RzYndtazdseWw1NnZ5cGhyNGdjYXl1dDkyNjE1a240dWtrNjBvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+![Header](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDQ2bDVncTM4ZGVidHBnaG03enV1aHFjbmF0bnUwNmdjNnFzdGV2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4qTMeYzbwCWRo3jD1C/giphy.gif)
 
 </div>
 
