@@ -40,8 +40,8 @@
 ## 📲 My Projects :
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValDuo&repo=SpamFilter)](https://github.com/ValDuo/SpamFilter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValDuo&repo=parser)](https://github.com/ValDuo/parser)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValDuo&repo=fkrbot)](https://github.com/ValDuo/fkrbot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValDuo&repo=Parser)](https://github.com/ValDuo/Parser)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValDuo&repo=TgBotFKR)](https://github.com/ValDuo/TgBotFKR)
 
 ## 📈 My Stats :
 
