@@ -40,6 +40,7 @@
 ## 📲 My Projects :
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValDuo&repo=SpamFilter)](https://github.com/ValDuo/SpamFilter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValDuo&repo=TelecomProsessing)](https://github.com/ValDuo/TelecomProsessing)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValDuo&repo=Parser)](https://github.com/ValDuo/Parser)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValDuo&repo=TgBotFKR)](https://github.com/ValDuo/TgBotFKR)
 
