@@ -51,6 +51,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValDuo&theme=vision-friendly-dark)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValDuo)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Profile views](https://komarev.com/ghpvc/?username=ValDuo)
 
 ## 📞 My Contacts :
